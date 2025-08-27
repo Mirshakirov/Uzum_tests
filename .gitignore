@@ -5,3 +5,5 @@
 /.idea/vcs.xml
 /out/production/Uzum_tests/.gitignore
 /out/production/Uzum_tests/uzum/tasks/Main.class
+/out/production/Uzum_tests/uzum/tasks/Book.class
+/out/production/Uzum_tests/uzum/tasks/Library.class
