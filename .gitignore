@@ -3,3 +3,5 @@
 /.idea/modules.xml
 /.idea/Uzum_tests.iml
 /.idea/vcs.xml
+/out/production/Uzum_tests/.gitignore
+/out/production/Uzum_tests/uzum/tasks/Main.class
